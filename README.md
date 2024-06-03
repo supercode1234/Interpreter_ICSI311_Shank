@@ -3,7 +3,7 @@
 ## Description
 This is my assignment for ICSI311-Principles of Programming Lnaugages at UAlbany during Spring 2023.
 This is an interpreter for a programming language called Shank.
-It has some flaws, but this is what I turned in at the end. 
+It's not perfect, but this is what I turned in at the end. 
 
 ## How to run
 Shank.java is the execution file. Download the files and run them with your IDE. 
