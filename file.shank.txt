@@ -1,0 +1,5 @@
+define start(t:integer; s:real)
+constants pi = 3.141
+variables a,b,c : integer
+	b:=1<1
+	a:=d+1
